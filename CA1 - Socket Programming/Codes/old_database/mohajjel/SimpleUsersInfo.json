@@ -1,0 +1,47 @@
+[
+	{
+		"address" : "addafirst",
+		"admin" : true,
+		"id" : 1,
+		"money" : 12,
+		"password" : "passa",
+		"phone_number" : "phonea",
+		"user_name" : "a"
+	},
+	{
+		"address" : "adda",
+		"admin" : true,
+		"id" : 1,
+		"money" : 12,
+		"password" : "passa",
+		"phone_number" : "phonea",
+		"user_name" : "a"
+	},
+	{
+		"address" : "adda",
+		"admin" : true,
+		"id" : 1,
+		"money" : 12,
+		"password" : "passa",
+		"phone_number" : "phonea",
+		"user_name" : "a"
+	},
+	{
+		"address" : "adda",
+		"admin" : true,
+		"id" : 1,
+		"money" : 12,
+		"password" : "passa",
+		"phone_number" : "phonea",
+		"user_name" : "a"
+	},
+	{
+		"address" : "addalast",
+		"admin" : true,
+		"id" : 1,
+		"money" : 12,
+		"password" : "passa",
+		"phone_number" : "jesus",
+		"user_name" : "a"
+	}
+]

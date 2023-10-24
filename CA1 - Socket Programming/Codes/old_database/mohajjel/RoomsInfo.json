@@ -1,0 +1,74 @@
+[
+	{
+		"capacity" : 22,
+		"max_capacity" : 13,
+		"number" : "a",
+		"price" : 12,
+		"room_residents" : 
+		[
+		],
+		"status" : 1
+	},
+	{
+		"capacity" : 22,
+		"max_capacity" : 13,
+		"number" : "c",
+		"price" : 12,
+		"room_residents" : 
+		[
+			{
+				"checkin_date" : 
+				{
+					"day" : 12,
+					"month" : 3,
+					"year" : 2023
+				},
+				"checkout_date" : 
+				{
+					"day" : 12,
+					"month" : 3,
+					"year" : 2023
+				},
+				"id" : 1,
+				"number_of_beds" : 2
+			}
+		],
+		"status" : 1
+	},
+	{
+		"capacity" : 22,
+		"max_capacity" : 13,
+		"number" : "d",
+		"price" : 12,
+		"room_residents" : 
+		[
+			{
+				"checkin_date" : 
+				{
+					"day" : 12,
+					"month" : 3,
+					"year" : 2023
+				},
+				"checkout_date" : 
+				{
+					"day" : 12,
+					"month" : 3,
+					"year" : 2023
+				},
+				"id" : 1,
+				"number_of_beds" : 2
+			}
+		],
+		"status" : 1
+	},
+	{
+		"capacity" : 22,
+		"max_capacity" : 13,
+		"number" : "e",
+		"price" : 12,
+		"room_residents" : 
+		[
+		],
+		"status" : 1
+	}
+]

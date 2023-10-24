@@ -1,0 +1,32 @@
+[
+	{
+		"admin" : true,
+		"id" : 1,
+		"password" : "passa",
+		"user_name" : "admin-a"
+	},
+	{
+		"admin" : false,
+		"id" : 1,
+		"password" : "passa",
+		"user_name" : "admin-b"
+	},
+	{
+		"admin" : true,
+		"id" : 1,
+		"password" : "passa",
+		"user_name" : "admin-c"
+	},
+	{
+		"admin" : false,
+		"id" : 1,
+		"password" : "passa",
+		"user_name" : "admin-d"
+	},
+	{
+		"admin" : true,
+		"id" : 1,
+		"password" : "passa",
+		"user_name" : "admin-e"
+	}
+]
