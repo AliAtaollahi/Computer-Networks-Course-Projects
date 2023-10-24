@@ -15,4 +15,4 @@ CA4 Description :
 > In this exercise, we aim to implement three congestion control algorithms for TCP; TCP is a transport layer protocol widely used and its important characteristic is the ability to establish reliable communication. The purpose of this exercise is to gain a deeper understanding of how TCP communication is established and the various mechanisms employed by congestion control algorithms when encountering congestion.
 Also, you will focus on implementing and analyzing three congestion control algorithms: Reno, New Reno, and BBR.
 
-Read the 'README.md' in each project for detailed explanation.
+Read the `README.md` in each project for detailed explanation.
